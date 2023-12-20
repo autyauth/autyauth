@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakorn Rattanapornchai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <hr>
 
 - 🔭 I’m currently studying on **king mongkut's institute of technology ladkrabang**
